@@ -1,4 +1,4 @@
-application: ctst
+application: guestbook
 version: 1
 runtime: python27, django1.4.3
 api_version: 1
